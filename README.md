@@ -1,2 +1,2 @@
 # aws-automate-s3
-automate was with python
+automate aws with python
